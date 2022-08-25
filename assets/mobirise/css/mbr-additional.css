@@ -1140,6 +1140,8 @@ a {
   .cid-tfvMRZ6gfQ .text-box {
     padding: 2rem;
     padding-right: 4rem;
+    padding-left: 4rem;
+    padding-right: 2rem;
   }
 }
 @media (max-width: 991px) {
@@ -1215,7 +1217,7 @@ a {
 .cid-tfw11HwTFU {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #fafafa;
+  background-color: #ffe161;
 }
 .cid-tfw11HwTFU .mbr-fallback-image.disabled {
   display: none;
@@ -1244,6 +1246,8 @@ a {
   .cid-tfw11HwTFU .text-box {
     padding: 2rem;
     padding-right: 4rem;
+    padding-left: 4rem;
+    padding-right: 2rem;
   }
 }
 @media (max-width: 991px) {

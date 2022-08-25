@@ -1112,3 +1112,105 @@ a {
   text-align: left;
   color: #bbbbbb;
 }
+.cid-tfvMRZ6gfQ {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fafafa;
+}
+.cid-tfvMRZ6gfQ .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tfvMRZ6gfQ .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tfvMRZ6gfQ .oldcost {
+  text-decoration: line-through;
+  color: #353535;
+}
+.cid-tfvMRZ6gfQ .currentcost {
+  color: #232323;
+}
+.cid-tfvMRZ6gfQ .card-wrapper {
+  border-radius: 4px;
+  background: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-tfvMRZ6gfQ .text-box {
+    padding: 2rem;
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tfvMRZ6gfQ .text-box {
+    padding: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-tfvMRZ6gfQ .text-box {
+    padding: 1rem;
+  }
+}
+.cid-tfvMRZ6gfQ .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-tfvMRZ6gfQ H5 {
+  text-align: center;
+}
+.cid-tfvMRZ6gfQ .mbr-text,
+.cid-tfvMRZ6gfQ .cost,
+.cid-tfvMRZ6gfQ .mbr-section-btn {
+  text-align: center;
+}
+.cid-tfvRrWb6Eh {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ffe161;
+}
+@media (min-width: 991px) {
+  .cid-tfvRrWb6Eh .container-fluid {
+    padding-left: 0;
+  }
+}
+.cid-tfvRrWb6Eh .mbr-text,
+.cid-tfvRrWb6Eh .mbr-section-btn {
+  color: #232323;
+}
+@media (max-width: 991px) {
+  .cid-tfvRrWb6Eh .mbr-text,
+  .cid-tfvRrWb6Eh .mbr-section-btn {
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .cid-tfvRrWb6Eh .mbr-text,
+  .cid-tfvRrWb6Eh .mbr-section-title {
+    text-align: center;
+  }
+}
+.cid-tfvRrWb6Eh a.btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-tfvRrWb6Eh .mbr-section-btn {
+  display: flex;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+.cid-tfvRrWb6Eh .mbr-section-btn .btn {
+  width: 100%;
+}
+@media (max-width: 991px) {
+  .cid-tfvRrWb6Eh .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tfvRrWb6Eh .justify-content-center {
+  align-items: center;
+}

@@ -1106,7 +1106,7 @@ a {
 }
 .cid-teh2LjMeFm .item-subtitle {
   text-align: left;
-  color: #bbbbbb;
+  color: #ffffff;
 }
 .cid-tfvMRZ6gfQ {
   padding-top: 5rem;
@@ -1164,7 +1164,7 @@ a {
 .cid-tfvMRZ6gfQ .mbr-text,
 .cid-tfvMRZ6gfQ .cost,
 .cid-tfvMRZ6gfQ .mbr-section-btn {
-  text-align: center;
+  text-align: left;
 }
 .cid-tfw10CI7j3 {
   padding-top: 5rem;
@@ -1379,4 +1379,16 @@ a {
     padding-left: 2rem;
     padding-right: 4rem;
   }
+}
+.cid-tfwkarGwEy .card-subtitle {
+  text-align: left;
+  color: #232323;
+}
+.cid-tfx1etsndV {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #4479d9;
+}
+.cid-tfx1etsndV .mbr-text {
+  color: #4479d9;
 }
